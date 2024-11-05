@@ -3,7 +3,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color:#ECC2CE;
+  background-color:#7be671;
 }
 
 span {
@@ -20,10 +20,10 @@ span {
       color: white;
   }
   50% {
-      color: #f346238e;
+      color: #b0f8a18e;
   }
   100% {
-      color: #F34423;
+      color: #77f1b8;
   }
 }
 
